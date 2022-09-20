@@ -3,8 +3,9 @@ add second line from remote.
 
 edited from feature2 branch
 
-i am master branch
+I am Master branch
 
 add from feature3
 
 I am demo
+
